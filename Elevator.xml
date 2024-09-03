@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE explane>
+<explane version="1.0">
+    <Units>
+        <length_unit_to_meter>1</length_unit_to_meter>
+        <mass_unit_to_kg>1</mass_unit_to_kg>
+    </Units>
+    <wing>
+        <Name>Elevator</Name>
+        <Type>ELEVATOR</Type>
+        <Color>
+            <red>150</red>
+            <green>151</green>
+            <blue>121</blue>
+            <alpha>255</alpha>
+        </Color>
+        <Description></Description>
+        <Position>          0,           0,           0</Position>
+        <Tilt_angle>  0.000</Tilt_angle>
+        <Symetric>true</Symetric>
+        <isFin>false</isFin>
+        <isDoubleFin>false</isDoubleFin>
+        <isSymFin>false</isSymFin>
+        <Inertia>
+            <Volume_Mass>  0.000</Volume_Mass>
+        </Inertia>
+		<Sections>
+			<Section>
+				<y_position> 0.000</y_position>
+				<chord> 0.120</chord>
+				<xOffset> 0.000</xOffset>
+				<Dihedral> 0.000</Dihedral>
+				<Twist> 0.000</Twist>
+				<x_number_of_panels> 40</x_number_of_panels>
+				<x_panel_distribution>COSINE</x_panel_distribution>
+				<y_number_of_panels> 2</y_number_of_panels>
+				<y_panel_distribution>UNIFORM</y_panel_distribution>
+				<Left_Side_FoilName>NACA 0012 AIRFOILS</Left_Side_FoilName>
+				<Right_Side_FoilName>NACA 0012 AIRFOILS</Right_Side_FoilName>
+			</Section>
+			<Section>
+				<y_position> 0.074</y_position>
+				<chord> 0.111</chord>
+				<xOffset> 0.004</xOffset>
+				<Dihedral> 0.000</Dihedral>
+				<Twist> 0.000</Twist>
+				<x_number_of_panels> 40</x_number_of_panels>
+				<x_panel_distribution>COSINE</x_panel_distribution>
+				<y_number_of_panels> 2</y_number_of_panels>
+				<y_panel_distribution>UNIFORM</y_panel_distribution>
+				<Left_Side_FoilName>NACA 0012 AIRFOILS</Left_Side_FoilName>
+				<Right_Side_FoilName>NACA 0012 AIRFOILS</Right_Side_FoilName>
+			</Section>
+			<Section>
+				<y_position> 0.103</y_position>
+				<chord> 0.103</chord>
+				<xOffset> 0.009</xOffset>
+				<Dihedral> 0.000</Dihedral>
+				<Twist> 0.000</Twist>
+				<x_number_of_panels> 40</x_number_of_panels>
+				<x_panel_distribution>COSINE</x_panel_distribution>
+				<y_number_of_panels> 2</y_number_of_panels>
+				<y_panel_distribution>UNIFORM</y_panel_distribution>
+				<Left_Side_FoilName>NACA 0012 AIRFOILS</Left_Side_FoilName>
+				<Right_Side_FoilName>NACA 0012 AIRFOILS</Right_Side_FoilName>
+			</Section>
+			<Section>
+				<y_position> 0.124</y_position>
+				<chord> 0.094</chord>
+				<xOffset> 0.013</xOffset>
+				<Dihedral> 0.000</Dihedral>
+				<Twist> 0.000</Twist>
+				<x_number_of_panels> 40</x_number_of_panels>
+				<x_panel_distribution>COSINE</x_panel_distribution>
+				<y_number_of_panels> 2</y_number_of_panels>
+				<y_panel_distribution>UNIFORM</y_panel_distribution>
+				<Left_Side_FoilName>NACA 0012 AIRFOILS</Left_Side_FoilName>
+				<Right_Side_FoilName>NACA 0012 AIRFOILS</Right_Side_FoilName>
+			</Section>
+			<Section>
+				<y_position> 0.140</y_position>
+				<chord> 0.086</chord>
+				<xOffset> 0.017</xOffset>
+				<Dihedral> 0.000</Dihedral>
+				<Twist> 0.000</Twist>
+				<x_number_of_panels> 40</x_number_of_panels>
+				<x_panel_distribution>COSINE</x_panel_distribution>
+				<y_number_of_panels> 2</y_number_of_panels>
+				<y_panel_distribution>UNIFORM</y_panel_distribution>
+				<Left_Side_FoilName>NACA 0012 AIRFOILS</Left_Side_FoilName>
+				<Right_Side_FoilName>NACA 0012 AIRFOILS</Right_Side_FoilName>
+			</Section>
+			<Section>
+				<y_position> 0.153</y_position>
+				<chord> 0.077</chord>
+				<xOffset> 0.021</xOffset>
+				<Dihedral> 0.000</Dihedral>
+				<Twist> 0.000</Twist>
+				<x_number_of_panels> 40</x_number_of_panels>
+				<x_panel_distribution>COSINE</x_panel_distribution>
+				<y_number_of_panels> 2</y_number_of_panels>
+				<y_panel_distribution>UNIFORM</y_panel_distribution>
+				<Left_Side_FoilName>NACA 0012 AIRFOILS</Left_Side_FoilName>
+				<Right_Side_FoilName>NACA 0012 AIRFOILS</Right_Side_FoilName>
+			</Section>
+			<Section>
+				<y_position> 0.164</y_position>
+				<chord> 0.069</chord>
+				<xOffset> 0.026</xOffset>
+				<Dihedral> 0.000</Dihedral>
+				<Twist> 0.000</Twist>
+				<x_number_of_panels> 40</x_number_of_panels>
+				<x_panel_distribution>COSINE</x_panel_distribution>
+				<y_number_of_panels> 2</y_number_of_panels>
+				<y_panel_distribution>UNIFORM</y_panel_distribution>
+				<Left_Side_FoilName>NACA 0012 AIRFOILS</Left_Side_FoilName>
+				<Right_Side_FoilName>NACA 0012 AIRFOILS</Right_Side_FoilName>
+			</Section>
+			<Section>
+				<y_position> 0.173</y_position>
+				<chord> 0.060</chord>
+				<xOffset> 0.030</xOffset>
+				<Dihedral> 0.000</Dihedral>
+				<Twist> 0.000</Twist>
+				<x_number_of_panels> 40</x_number_of_panels>
+				<x_panel_distribution>COSINE</x_panel_distribution>
+				<y_number_of_panels> 2</y_number_of_panels>
+				<y_panel_distribution>UNIFORM</y_panel_distribution>
+				<Left_Side_FoilName>NACA 0012 AIRFOILS</Left_Side_FoilName>
+				<Right_Side_FoilName>NACA 0012 AIRFOILS</Right_Side_FoilName>
+			</Section>
+			<Section>
+				<y_position> 0.181</y_position>
+				<chord> 0.051</chord>
+				<xOffset> 0.034</xOffset>
+				<Dihedral> 0.000</Dihedral>
+				<Twist> 0.000</Twist>
+				<x_number_of_panels> 40</x_number_of_panels>
+				<x_panel_distribution>COSINE</x_panel_distribution>
+				<y_number_of_panels> 2</y_number_of_panels>
+				<y_panel_distribution>UNIFORM</y_panel_distribution>
+				<Left_Side_FoilName>NACA 0012 AIRFOILS</Left_Side_FoilName>
+				<Right_Side_FoilName>NACA 0012 AIRFOILS</Right_Side_FoilName>
+			</Section>
+			<Section>
+				<y_position> 0.187</y_position>
+				<chord> 0.043</chord>
+				<xOffset> 0.039</xOffset>
+				<Dihedral> 0.000</Dihedral>
+				<Twist> 0.000</Twist>
+				<x_number_of_panels> 40</x_number_of_panels>
+				<x_panel_distribution>COSINE</x_panel_distribution>
+				<y_number_of_panels> 2</y_number_of_panels>
+				<y_panel_distribution>UNIFORM</y_panel_distribution>
+				<Left_Side_FoilName>NACA 0012 AIRFOILS</Left_Side_FoilName>
+				<Right_Side_FoilName>NACA 0012 AIRFOILS</Right_Side_FoilName>
+			</Section>
+			<Section>
+				<y_position> 0.192</y_position>
+				<chord> 0.034</chord>
+				<xOffset> 0.043</xOffset>
+				<Dihedral> 0.000</Dihedral>
+				<Twist> 0.000</Twist>
+				<x_number_of_panels> 40</x_number_of_panels>
+				<x_panel_distribution>COSINE</x_panel_distribution>
+				<y_number_of_panels> 2</y_number_of_panels>
+				<y_panel_distribution>UNIFORM</y_panel_distribution>
+				<Left_Side_FoilName>NACA 0012 AIRFOILS</Left_Side_FoilName>
+				<Right_Side_FoilName>NACA 0012 AIRFOILS</Right_Side_FoilName>
+			</Section>
+			<Section>
+				<y_position> 0.195</y_position>
+				<chord> 0.026</chord>
+				<xOffset> 0.047</xOffset>
+				<Dihedral> 0.000</Dihedral>
+				<Twist> 0.000</Twist>
+				<x_number_of_panels> 40</x_number_of_panels>
+				<x_panel_distribution>COSINE</x_panel_distribution>
+				<y_number_of_panels> 2</y_number_of_panels>
+				<y_panel_distribution>UNIFORM</y_panel_distribution>
+				<Left_Side_FoilName>NACA 0012 AIRFOILS</Left_Side_FoilName>
+				<Right_Side_FoilName>NACA 0012 AIRFOILS</Right_Side_FoilName>
+			</Section>
+			<Section>
+				<y_position> 0.198</y_position>
+				<chord> 0.017</chord>
+				<xOffset> 0.051</xOffset>
+				<Dihedral> 0.000</Dihedral>
+				<Twist> 0.000</Twist>
+				<x_number_of_panels> 40</x_number_of_panels>
+				<x_panel_distribution>COSINE</x_panel_distribution>
+				<y_number_of_panels> 2</y_number_of_panels>
+				<y_panel_distribution>UNIFORM</y_panel_distribution>
+				<Left_Side_FoilName>NACA 0012 AIRFOILS</Left_Side_FoilName>
+				<Right_Side_FoilName>NACA 0012 AIRFOILS</Right_Side_FoilName>
+			</Section>
+			<Section>
+				<y_position> 0.199</y_position>
+				<chord> 0.009</chord>
+				<xOffset> 0.056</xOffset>
+				<Dihedral> 0.000</Dihedral>
+				<Twist> 0.000</Twist>
+				<x_number_of_panels> 40</x_number_of_panels>
+				<x_panel_distribution>COSINE</x_panel_distribution>
+				<y_number_of_panels> 2</y_number_of_panels>
+				<y_panel_distribution>UNIFORM</y_panel_distribution>
+				<Left_Side_FoilName>NACA 0012 AIRFOILS</Left_Side_FoilName>
+				<Right_Side_FoilName>NACA 0012 AIRFOILS</Right_Side_FoilName>
+			</Section>
+		</Sections>
+    </wing>
+</explane>
