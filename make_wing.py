@@ -1,20 +1,21 @@
 import math
 
-span=1.3
-root_chord=0.2
+span=1.9
+root_chord=0.24
 min_chord_ratio=0.2
-section_count=16
+section_count=8
 x_panel_count=50
-y_panel_size=(span/2)*(1/24)
+y_panel_size=(span/2)*(1/12)
 twist=0
 file_name="Main_Wing.xml"
 foil_name="EPPLER 67 AIRFOIL"
 
-# section_count=14
-# x_panel_count=40
-# y_panel_count=2
 # span=0.4
 # root_chord=0.12
+# min_chord_ratio=0.4
+# section_count=10
+# x_panel_count=40
+# y_panel_size=(span/2)*(1/10)
 # twist=0
 # file_name="Elevator.xml"
 # foil_name="NACA 0012 AIRFOILS"

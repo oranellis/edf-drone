@@ -33,26 +33,13 @@
 				<Twist> 0.000</Twist>
 				<x_number_of_panels> 50</x_number_of_panels>
 				<x_panel_distribution>COSINE</x_panel_distribution>
-				<y_number_of_panels> 8</y_number_of_panels>
+				<y_number_of_panels> 5</y_number_of_panels>
 				<y_panel_distribution>UNIFORM</y_panel_distribution>
 				<Left_Side_FoilName>EPPLER 67 AIRFOIL</Left_Side_FoilName>
 				<Right_Side_FoilName>EPPLER 67 AIRFOIL</Right_Side_FoilName>
 			</Section>
 			<Section>
-				<y_position> 0.287</y_position>
-				<chord> 0.228</chord>
-				<xOffset> 0.006</xOffset>
-				<Dihedral> 0.000</Dihedral>
-				<Twist> 0.000</Twist>
-				<x_number_of_panels> 50</x_number_of_panels>
-				<x_panel_distribution>COSINE</x_panel_distribution>
-				<y_number_of_panels> 3</y_number_of_panels>
-				<y_panel_distribution>UNIFORM</y_panel_distribution>
-				<Left_Side_FoilName>EPPLER 67 AIRFOIL</Left_Side_FoilName>
-				<Right_Side_FoilName>EPPLER 67 AIRFOIL</Right_Side_FoilName>
-			</Section>
-			<Section>
-				<y_position> 0.400</y_position>
+				<y_position> 0.423</y_position>
 				<chord> 0.216</chord>
 				<xOffset> 0.012</xOffset>
 				<Dihedral> 0.000</Dihedral>
@@ -65,20 +52,7 @@
 				<Right_Side_FoilName>EPPLER 67 AIRFOIL</Right_Side_FoilName>
 			</Section>
 			<Section>
-				<y_position> 0.484</y_position>
-				<chord> 0.204</chord>
-				<xOffset> 0.018</xOffset>
-				<Dihedral> 0.000</Dihedral>
-				<Twist> 0.000</Twist>
-				<x_number_of_panels> 50</x_number_of_panels>
-				<x_panel_distribution>COSINE</x_panel_distribution>
-				<y_number_of_panels> 1</y_number_of_panels>
-				<y_panel_distribution>UNIFORM</y_panel_distribution>
-				<Left_Side_FoilName>EPPLER 67 AIRFOIL</Left_Side_FoilName>
-				<Right_Side_FoilName>EPPLER 67 AIRFOIL</Right_Side_FoilName>
-			</Section>
-			<Section>
-				<y_position> 0.551</y_position>
+				<y_position> 0.582</y_position>
 				<chord> 0.192</chord>
 				<xOffset> 0.024</xOffset>
 				<Dihedral> 0.000</Dihedral>
@@ -91,20 +65,7 @@
 				<Right_Side_FoilName>EPPLER 67 AIRFOIL</Right_Side_FoilName>
 			</Section>
 			<Section>
-				<y_position> 0.608</y_position>
-				<chord> 0.180</chord>
-				<xOffset> 0.030</xOffset>
-				<Dihedral> 0.000</Dihedral>
-				<Twist> 0.000</Twist>
-				<x_number_of_panels> 50</x_number_of_panels>
-				<x_panel_distribution>COSINE</x_panel_distribution>
-				<y_number_of_panels> 1</y_number_of_panels>
-				<y_panel_distribution>UNIFORM</y_panel_distribution>
-				<Left_Side_FoilName>EPPLER 67 AIRFOIL</Left_Side_FoilName>
-				<Right_Side_FoilName>EPPLER 67 AIRFOIL</Right_Side_FoilName>
-			</Section>
-			<Section>
-				<y_position> 0.656</y_position>
+				<y_position> 0.692</y_position>
 				<chord> 0.168</chord>
 				<xOffset> 0.036</xOffset>
 				<Dihedral> 0.000</Dihedral>
@@ -117,20 +78,7 @@
 				<Right_Side_FoilName>EPPLER 67 AIRFOIL</Right_Side_FoilName>
 			</Section>
 			<Section>
-				<y_position> 0.698</y_position>
-				<chord> 0.156</chord>
-				<xOffset> 0.042</xOffset>
-				<Dihedral> 0.000</Dihedral>
-				<Twist> 0.000</Twist>
-				<x_number_of_panels> 50</x_number_of_panels>
-				<x_panel_distribution>COSINE</x_panel_distribution>
-				<y_number_of_panels> 1</y_number_of_panels>
-				<y_panel_distribution>UNIFORM</y_panel_distribution>
-				<Left_Side_FoilName>EPPLER 67 AIRFOIL</Left_Side_FoilName>
-				<Right_Side_FoilName>EPPLER 67 AIRFOIL</Right_Side_FoilName>
-			</Section>
-			<Section>
-				<y_position> 0.735</y_position>
+				<y_position> 0.776</y_position>
 				<chord> 0.144</chord>
 				<xOffset> 0.048</xOffset>
 				<Dihedral> 0.000</Dihedral>
@@ -143,20 +91,7 @@
 				<Right_Side_FoilName>EPPLER 67 AIRFOIL</Right_Side_FoilName>
 			</Section>
 			<Section>
-				<y_position> 0.767</y_position>
-				<chord> 0.132</chord>
-				<xOffset> 0.054</xOffset>
-				<Dihedral> 0.000</Dihedral>
-				<Twist> 0.000</Twist>
-				<x_number_of_panels> 50</x_number_of_panels>
-				<x_panel_distribution>COSINE</x_panel_distribution>
-				<y_number_of_panels> 0</y_number_of_panels>
-				<y_panel_distribution>UNIFORM</y_panel_distribution>
-				<Left_Side_FoilName>EPPLER 67 AIRFOIL</Left_Side_FoilName>
-				<Right_Side_FoilName>EPPLER 67 AIRFOIL</Right_Side_FoilName>
-			</Section>
-			<Section>
-				<y_position> 0.795</y_position>
+				<y_position> 0.840</y_position>
 				<chord> 0.120</chord>
 				<xOffset> 0.060</xOffset>
 				<Dihedral> 0.000</Dihedral>
@@ -169,20 +104,7 @@
 				<Right_Side_FoilName>EPPLER 67 AIRFOIL</Right_Side_FoilName>
 			</Section>
 			<Section>
-				<y_position> 0.820</y_position>
-				<chord> 0.108</chord>
-				<xOffset> 0.066</xOffset>
-				<Dihedral> 0.000</Dihedral>
-				<Twist> 0.000</Twist>
-				<x_number_of_panels> 50</x_number_of_panels>
-				<x_panel_distribution>COSINE</x_panel_distribution>
-				<y_number_of_panels> 0</y_number_of_panels>
-				<y_panel_distribution>UNIFORM</y_panel_distribution>
-				<Left_Side_FoilName>EPPLER 67 AIRFOIL</Left_Side_FoilName>
-				<Right_Side_FoilName>EPPLER 67 AIRFOIL</Right_Side_FoilName>
-			</Section>
-			<Section>
-				<y_position> 0.842</y_position>
+				<y_position> 0.889</y_position>
 				<chord> 0.096</chord>
 				<xOffset> 0.072</xOffset>
 				<Dihedral> 0.000</Dihedral>
@@ -195,20 +117,7 @@
 				<Right_Side_FoilName>EPPLER 67 AIRFOIL</Right_Side_FoilName>
 			</Section>
 			<Section>
-				<y_position> 0.860</y_position>
-				<chord> 0.084</chord>
-				<xOffset> 0.078</xOffset>
-				<Dihedral> 0.000</Dihedral>
-				<Twist> 0.000</Twist>
-				<x_number_of_panels> 50</x_number_of_panels>
-				<x_panel_distribution>COSINE</x_panel_distribution>
-				<y_number_of_panels> 0</y_number_of_panels>
-				<y_panel_distribution>UNIFORM</y_panel_distribution>
-				<Left_Side_FoilName>EPPLER 67 AIRFOIL</Left_Side_FoilName>
-				<Right_Side_FoilName>EPPLER 67 AIRFOIL</Right_Side_FoilName>
-			</Section>
-			<Section>
-				<y_position> 0.876</y_position>
+				<y_position> 0.925</y_position>
 				<chord> 0.072</chord>
 				<xOffset> 0.084</xOffset>
 				<Dihedral> 0.000</Dihedral>
@@ -221,20 +130,7 @@
 				<Right_Side_FoilName>EPPLER 67 AIRFOIL</Right_Side_FoilName>
 			</Section>
 			<Section>
-				<y_position> 0.889</y_position>
-				<chord> 0.060</chord>
-				<xOffset> 0.090</xOffset>
-				<Dihedral> 0.000</Dihedral>
-				<Twist> 0.000</Twist>
-				<x_number_of_panels> 50</x_number_of_panels>
-				<x_panel_distribution>COSINE</x_panel_distribution>
-				<y_number_of_panels> 0</y_number_of_panels>
-				<y_panel_distribution>UNIFORM</y_panel_distribution>
-				<Left_Side_FoilName>EPPLER 67 AIRFOIL</Left_Side_FoilName>
-				<Right_Side_FoilName>EPPLER 67 AIRFOIL</Right_Side_FoilName>
-			</Section>
-			<Section>
-				<y_position> 0.900</y_position>
+				<y_position> 0.950</y_position>
 				<chord> 0.048</chord>
 				<xOffset> 0.096</xOffset>
 				<Dihedral> 0.000</Dihedral>
